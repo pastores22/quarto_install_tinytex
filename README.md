@@ -1,0 +1,1 @@
+# quarto_install_tinytex
